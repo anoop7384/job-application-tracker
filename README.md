@@ -9,18 +9,17 @@ Follow these steps to set up the Job Applications Tracker website on your local 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anoop7384/IMAGE_GENERATOR.git
+git clone https://github.com/anoop7384/job-application-tracker.git
 ```
 
 ### 2. Install dependencies for both frontend and backend
 
 ```bash
 # Frontend
-cd frontend
+cd client
 npm install
 
 # Backend
-cd backend
 npm install
 ```
 
@@ -28,12 +27,11 @@ npm install
 
 ```bash
 # Frontend
-cd frontend
+cd client
 npm run dev
 
 # Backend
-cd backend
-node app.js
+node server.js
 ```
 
 The frontend will be available at http://localhost:5173, and the backend will be running on http://localhost:9000.
