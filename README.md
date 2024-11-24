@@ -1,6 +1,6 @@
 ## Installation
 
-Follow these steps to set up the Social Networking Website on your local machine:
+Follow these steps to set up the Job Applications Tracker website on your local machine:
 
 ### Prerequisites
 
